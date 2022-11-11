@@ -1,0 +1,1 @@
+data = [{'name': 'Mauricio','NivelWarzone': 250, 'ArmaFavorita': 'Sticks'},{'name': 'ChapaPro', 'NivelWarzone':145, 'ArmaFavorita':'Ak-47'},{'name':'Paciente','NivelWarzone':170, 'ArmaFavorita':'Pito'}]
